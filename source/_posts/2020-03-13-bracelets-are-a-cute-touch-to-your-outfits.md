@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Bracelets are a Cute Touch to your Outfits
+title: Bracelets Add a Cute Touch to your Outfits
 lang: en
 date: '2020-03-13T10:23:37-04:00'
 thumbnail: /images/uploads/3_hemp-5bfda68ac9e77c0051896e7a.jpg
